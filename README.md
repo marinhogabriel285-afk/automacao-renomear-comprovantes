@@ -30,3 +30,6 @@ Script em Python desenvolvido para eliminar o trabalho manual de abrir, ler e re
 1. **Instale a dependência:**
    ```bash
    pip install pypdf
+
+
+ TERMINADO AINDA!
